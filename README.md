@@ -12,14 +12,14 @@ The application is split into three file
 
 1) lib/main.draft 
 
-      where  the MovieApp class are located whih is the main entry of the application 
+      where  the MovieApp class are located where the main entry of the application 
       
       
       
  
 2) lib/views/movie_cell.dart
 
-      which simple view that used to display the Movies in listView 
+      is a simple view that used to display the Movies in listView 
       
       
       
